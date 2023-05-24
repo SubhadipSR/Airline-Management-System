@@ -1,6 +1,6 @@
 # Airline Management System
 
-The Airline Management System in PHP is a simple reservation system for flights. The project contains the admin side and the user side. The admin can view and manage the users, add/modify the flight schedule, view the booked ticket and manage the flight details.
+The Airline Management System is a simple reservation system for flights. The project contains the admin side and the user side. The admin can view and manage the users, add/modify the flight schedule, view the booked ticket and manage the flight details.
 
 The users are the clients who want to search and reserve the flights suitable for them. A user has to login first to make the reservation. If he/she has not registered, they can register first and then login. A user can search for available flights for a particular city-pair and book tickets in the class of their choice. This project is a very simple project that saves time and money for the customer as well as the airline company thereby making air travel more customer-centric.
 
