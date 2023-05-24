@@ -1,0 +1,147 @@
+.page
+ {
+    width:auto;
+    height:auto;
+    border=style:groove;
+
+
+ }
+
+
+
+.headerpart
+ {
+     width:auto;
+     height:200px;
+     border=style:groove;
+     background-color:rgb(12,100,198);
+     background-image:url('images/flight.jpg');
+     background-repeat:no-repeat;
+
+ }
+
+
+.linkspart
+{
+   width:auto;
+   height:30px;
+   margin-top:5px;
+   background-color:rgb(12,100,198);
+   border=style:groove;
+
+}
+
+
+.linkspart a
+{
+   color:rgb(245,246,251);
+   text-decoration:none;
+
+}
+
+.linkspart a:hover
+{
+  background-color:rgb(245,246,251);
+  color:rgb(12,100,198);
+
+}
+
+
+.bodypart
+{
+  width:1500px;
+  height:600px;
+  border-style:groove;
+  margin-top:5px;
+  margin-left:7px;
+
+}
+
+
+.bodypart .imagepart
+{
+   width:650px;
+   height:270px;
+   border-style:groove;
+   margin-left: 20px;
+   margin-top: 20px;
+   background-image:url('images/flight.jpg');
+     background-repeat:no-repeat;
+     display:inline-block;
+
+
+}
+
+.bodypart .newspart h2
+{
+ color:green;
+ margin-left:auto;
+}
+
+
+.bodypart .newspart
+{
+   
+   width:750px;
+   height:520px;
+   border-style:groove;
+   float:right;
+   margin-top: 20px;
+   margin-right: 20px;
+
+}
+
+
+
+.bodypart .newspart .news
+{
+
+   width:720px;
+   height:400px;
+   margin-left: 30px;
+   
+
+
+}
+
+
+
+.bodypart .newspart .news h4
+{
+color:blue;
+margin-left: auto;
+}
+
+
+.bodypart h3
+{
+color:blue;
+text-align:center;
+
+}
+
+.bodypart h5
+{
+   color:black;
+   text-align: justify;
+   margin-left: 120px;
+   margin-right: 20px;
+}
+
+.bodypart h4
+{
+color:black;
+text-align:justify;
+
+}
+
+.footerpart
+{
+   width:auto;
+   height:30px;
+   background-color:rgb(50, 128, 158);
+   border=style:groove;
+
+}
+
+
