@@ -6,7 +6,7 @@ The users are the clients who want to search and reserve the flights suitable fo
 
 # About System
 
-This Airline Ticket Reservation is in HTML, PHP, CSS, MySQL, and bootstrap. Talking about the features of the Management System, it just contains both the admin section and the user section. The user can log in to book flights, while the admins can view all users’ bookings and manage the flight schedules. The design of this project is pretty simple so that the user won’t find any difficulties while working on it
+This Airline Management System is in HTML, PHP, CSS, MySQL, and bootstrap. Talking about the features of the Management System, it just contains both the admin section and the user section. The user can log in to book flights, while the admins can view all users’ bookings and manage the flight schedules. The design of this project is pretty simple so that the user won’t find any difficulties while working on it
 
 Our airline management system has the following features:- 
 
