@@ -39,6 +39,6 @@ Our airline management system has the following features:-
 
 After Creating Database,
 
-* Open a browser and go to URL “http://localhost/Airline-Management-System/”
+* Open a browser and go to URL http://localhost/Airline-Management-System/
 
 To open the admin page: Username - admin , Password - passpass
